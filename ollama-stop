@@ -1,0 +1,6 @@
+#!/bin/bash
+# test
+# ollama_pid=`pgrep ollama`
+# echo "kill $ollama_pid"
+
+kill `pgrep ollama`

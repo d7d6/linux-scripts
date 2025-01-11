@@ -1,0 +1,4 @@
+#!/bin/bash
+export OLLAMA_MODELS=/mnt/DEV/AI/models
+export OLLAMA_TMPDIR=/mnt/DEV/AI/tmp
+ollama start
